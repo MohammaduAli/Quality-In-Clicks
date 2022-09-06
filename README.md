@@ -13,7 +13,7 @@ The purpose of this document is to assist users to practice and successfully use
 
 How to Get Started with the Tool:
 1.	Open the QiC tool either by double clicking on the desktop icon or getting it from the Start menu	
-2.	Enter the ALM URL “https://<ALM Platform server name> [<: portnumber>]/qcbin” in the "QC URL" field then enter ALM credentials and click on Authenticate. On successful authentication the domain and project drop down lists the corresponding values.
+2.	Enter the ALM URL “https://!<ALM Platform server name> [<: portnumber>]/qcbin” in the "QC URL" field then enter ALM credentials and click on Authenticate. On successful authentication the domain and project drop down lists the corresponding values.
 ![image](https://user-images.githubusercontent.com/64326474/188665552-5d122088-6b53-4b2a-81f2-d0ce8293b3aa.png)
 
 3.	Select your desired Domain and Project Name from the dropdown list and click on Login button
